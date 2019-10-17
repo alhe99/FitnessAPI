@@ -1,2 +1,2 @@
 # FitnessAPI
-Development in Express With SqlLite
+Little API with CRUD Operations,Development In Express With SqlLite
